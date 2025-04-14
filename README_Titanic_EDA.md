@@ -85,6 +85,9 @@ This project performs an exploratory data analysis (EDA) on the Titanic dataset 
 
 All analysis is done in a Jupyter Notebook and visualized using Seaborn and Matplotlib.
 
+## Files Attached
+-Titanic.ipynb -- Jupyter Notebook
+-Survival Analysis of the Titanic Dataset.pptx -- PDF report of findings
 ---
 
 This project is licensed under the MIT License.
